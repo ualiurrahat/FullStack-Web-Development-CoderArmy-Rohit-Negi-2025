@@ -1,0 +1,88 @@
+
+/* Tag Elment selector */
+/* h1{
+    background-color: pink;
+}
+
+ul{
+    background-color: aquamarine;
+}
+
+h2{
+    background-color: blue;
+} */
+
+/* id base selection # based selection */
+
+/* #first{
+    background-color: blue;
+}
+
+#second{
+    background-color: pink;
+} */
+
+
+/* class based selection */
+
+/* .third{
+    background-color: green;
+}
+
+.fourth{
+    background-color:blueviolet
+} */
+
+/* group based selection */
+/* 
+h1 , .fourth, #first{
+    background-color: aqua;
+} */
+
+
+/* h1{
+    background-color: rgba(19, 118, 161, 0.5);
+}
+
+h2{
+    background-color: hsla(110, 50%, 50%, 0.483);
+} */
+
+/* h1{
+    background-color: #639747;
+} */
+
+/* font */
+h1{
+    font-size: 80px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+/* li{
+    font-size: 2em;
+} */
+
+html{
+    font-size: 40px;
+}
+
+/* h2{
+    font-size: 3rem;
+} */
+
+h2{
+    font-family: "Epunda Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+
+
+
+

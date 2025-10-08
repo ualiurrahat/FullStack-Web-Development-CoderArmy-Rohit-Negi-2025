@@ -1,0 +1,49 @@
+/* span{
+    color: blue;
+} */
+
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+h1{
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+    border: 10px solid orange;
+    padding: 20px;
+    box-sizing: content-box;
+    /* padding: 40px;
+    margin: 20px; */
+    /* display: inline; */
+   /* display: inline-block; */
+    
+}
+
+h2{
+    background-color: brown;
+    /* display: inline; */
+    height: 300px;
+    width: 300px;
+    border: 10px solid orange;
+    padding: 20px;
+    box-sizing: border-box;
+    /* display: inline-block; */
+}
+
+span{
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+    /* padding: 20px;
+    margin: 20px; */
+    margin-bottom: 150px;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 20px;
+    /* display: block; */
+
+}
