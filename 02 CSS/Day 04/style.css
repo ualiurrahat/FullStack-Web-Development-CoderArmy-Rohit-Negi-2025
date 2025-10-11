@@ -1,0 +1,45 @@
+
+.container{
+    background-color: antiquewhite;
+    display: flex;
+    height: 600px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap:wrap; */
+    gap: 10px;
+}
+
+/* justify content: main axis ke around kaam karta hai
+main axis decide kun karega, aapka flex direction */
+/* align items work around cross axis */
+
+
+.box{
+    height: 100px;
+    width: 100px;
+}
+
+.first{
+    background-color: orange;
+    /* flex-basis: 200px; */
+    /* flex-grow: 1; */
+}
+
+.second{
+    background-color: green;
+    flex-shrink: 4;
+    /* flex-basis: 300px; */
+    /* flex-grow: 2; */
+}
+
+.third{
+    background-color: red;
+    align-self: flex-end;
+    /* flex-grow: 3; */
+}
+
+.fourth{
+    background-color: chartreuse;
+
+}
